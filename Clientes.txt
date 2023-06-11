@@ -1,0 +1,4 @@
+Prueba1;12345;Normal;
+prueba;123;Mayorista;
+alfonso;0214;Mayorista;
+Jhonny;7152719;Mayorista;

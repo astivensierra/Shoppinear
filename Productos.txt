@@ -1,0 +1,4 @@
+001;Arena Tipo1;Jugueteria;15000;
+01;bdn;Percheros;45000;
+45;Nerf;Jugueria;14000;
+789;palito;Percheros;78000;

@@ -1,0 +1,7 @@
+123;002-Grapa;Percheros de burro;1200;3;
+123;004-Perchero de piso Cactus;Percheros de pies;250000;2;
+123;001-Puntilla;Percheros de pared;500;6;
+12345;001-Puntilla;Percheros de pared;500;10;
+12345;003-Perchero de Pie BIO;Percheros de pies;189000;1;
+12345;004-Perchero de piso Cactus;Percheros de pies;250000;4;
+7152719;002-Grapa;Percheros de burro;1200;8;
