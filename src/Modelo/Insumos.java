@@ -80,11 +80,5 @@ public class Insumos {
         this.precioInsumo = precioInsumo;
     }
 
-
-    
-    
-    
-    
-    
     
 }
